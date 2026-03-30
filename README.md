@@ -81,3 +81,6 @@ Results-oriented professional with a foundation in ICT and customer service, see
 - Copy of Matric Certificate - [NSC](<PFP CV Markdown/NSC.pdf>)
 
 - Copy of Academic Record - [Academic Record](<PFP CV Markdown/Academic record.pdf>)
+
+- Mock Interview
+ <video controls src="Mock Interview.mov" title="Title"></video>
