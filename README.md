@@ -82,5 +82,5 @@ Results-oriented professional with a foundation in ICT and customer service, see
 
 - Copy of Academic Record - [Academic Record](<PFP CV Markdown/Academic record.pdf>)
 
-- Mock Interview
- <video controls src="Mock Interview.mov" title="Title"></video>
+- Link to Mock Interview 
+https://drive.google.com/file/d/1dzfMw5cqLIQJKNvXW64UDNOXVaLDuswO/view?usp=sharing
