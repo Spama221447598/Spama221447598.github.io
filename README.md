@@ -84,4 +84,4 @@ Results-oriented professional with a foundation in ICT and customer service, see
 
 ## Mock Interview Video
 
-<video controls src="Mock Interview Sanda-1.mp4" title="Title"></video>
+<video controls src="Mock Interview Sanda-1.mp4" title="Mock Interview Video" width="600"></video>
