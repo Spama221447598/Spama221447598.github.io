@@ -76,7 +76,7 @@ Results-oriented professional with a foundation in ICT and customer service, see
 ---
 
 ## Supporting Documents
-- Copy of ID - <a href="ID.pdf" download>ID Copy</a>
+- Copy of ID - <a href="ID.pdf" target="_blank">ID Copy</a>
 
 - Copy of Matric Certificate - <a href="NSC.pdf" download>NSC</a>
 
