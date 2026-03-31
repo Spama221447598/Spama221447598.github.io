@@ -76,11 +76,11 @@ Results-oriented professional with a foundation in ICT and customer service, see
 ---
 
 ## Supporting Documents
-- Copy of ID - [ID](<PFP CV Markdown/ID.pdf>)
+- Copy of ID - <a href="./ID.pdf" download>ID Copy</a>
 
-- Copy of Matric Certificate - [NSC](<PFP CV Markdown/NSC.pdf>)
+- Copy of Matric Certificate - <a href="NSC.pdf" download>ID Copy</a>
 
-- Copy of Academic Record - [Academic Record](<PFP CV Markdown/Academic record.pdf>)
+- Copy of Academic Record - <a href="Academic record.pdf" download>ID Copy</a>
 
 ## Mock Interview Video
 
