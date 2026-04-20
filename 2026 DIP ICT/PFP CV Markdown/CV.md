@@ -74,11 +74,11 @@ Results-oriented professional with a foundation in ICT and customer service, see
 ---
 
 ## Supporting Documents
-- Copy of ID - [ID](<2026%20DIP%20ICT/ID.pdf>)
+- Copy of ID - [ID](<PFP CV Markdown/ID.pdf>)
 
-- Copy of Matric Certificate - [NSC](<2026%20DIP%20ICT/NSC.pdf>)
+- Copy of Matric Certificate - [NSC](<PFP CV Markdown/NSC.pdf>)
 
-- Copy of Academic Record - [Academic Record](<2026%20DIP%20ICT/Academic record.pdf>)
+- Copy of Academic Record - [Academic Record](<PFP CV Markdown/Academic record.pdf>)
 
 ## Reflection 1: Coding CV in Markdown 
 **Situation:**
@@ -97,9 +97,7 @@ I successfully created a well-structured and professional CV that is easy to vie
 
 ## Mock Interview Video
 
-<video width="600" controls>
-  <source src="2026%20DIP%20ICT/MockInterview3.mp4" type="video/mp4">
-</video>
+<video controls autoplay muted playsinline source="MockInterview3.mp4" title="Mock Interview Video" width="600" height="600"></video>
 
 ---
 
