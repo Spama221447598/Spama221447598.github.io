@@ -99,7 +99,9 @@ I successfully created a well-structured and professional CV that is easy to vie
 
 ## Mock Interview Video
 
-<video controls autoplay muted playsinline source="MockInterview3.mp4" title="Mock Interview Video" width="600" height="600"></video>
+<video width="600" controls>
+  <source src="2026%20DIP%20ICT/MockInterview3.mp4" type="video/mp4">
+</video>
 
 ---
 
