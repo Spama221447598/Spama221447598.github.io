@@ -76,11 +76,11 @@ Results-oriented professional with a foundation in ICT and customer service, see
 ---
 
 ## Supporting Documents
-- Copy of ID - [ID](<Term 1/ID.pdf>)
+- Copy of ID - [ID](<2026%20DIP%20ICT/ID.pdf>)
 
-- Copy of Matric Certificate - [NSC](<Term 1/NSC.pdf>)
+- Copy of Matric Certificate - [NSC](<2026%20DIP%20ICT/NSC.pdf>)
 
-- Copy of Academic Record - [Academic Record](<Term 1/Academic record.pdf>)
+- Copy of Academic Record - [Academic Record](<2026%20DIP%20ICT/Academic record.pdf>)
 
 ## Reflection 1: Coding CV in Markdown 
 **Situation:**
