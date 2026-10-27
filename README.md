@@ -1,4 +1,3 @@
-<img width="1552" height="765" alt="userstory" src="https://github.com/user-attachments/assets/cdcf5449-f714-4e1e-8bc5-96fa7c3e97b4" />
 # Spama221447598.github.io
 
 # Curriculum Vitae
@@ -192,7 +191,7 @@ The team had a clearer understanding of project requirements, individual respons
 ## Product Backlog
 ---
 **Evidence**
-[Product Backlog](<2026%DIP20%ICT/pbacklog.png>)
+<img width="387" height="677" alt="pbacklog" src="https://github.com/user-attachments/assets/60809657-5fe4-4791-b8ef-e6e42069f7c0" />
 
 ### STAR Reflection – Product Backlog
 
@@ -212,7 +211,7 @@ The product backlog provided the team with a central list of requirements to gui
 ## Sprint Backlog
 ---
 **Evidence**
-[Sprint Backlog](<2026%DIP20%ICT/sprintbacklog.png>)
+<img width="1797" height="777" alt="sprintbacklog" src="https://github.com/user-attachments/assets/acd1b26a-8d86-4464-b9a0-bac8bdf1fb29" />
 
 ### STAR Reflection – Sprint Backlog
 
