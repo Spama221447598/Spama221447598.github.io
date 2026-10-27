@@ -136,5 +136,15 @@ I enabled GitHub Pages in the repository settings and structured my project corr
 I successfully published my portfolio as a live website. This experience improved my understanding of hosting projects online and gave me practical knowledge of using GitHub Pages for showcasing my work professionally.
 
 ---
+## Semester 2 - Entrepreneurial WIL Project
+---
+## D6 FOOD BULK
+D6 Food Bulk is a seasonal, student-led bulk-buying syndicate that operates during the first 2 weeks of every month at CPUT D6.The business is run by students for students, specifically targeting NSFAS-Funded community who face month to month financial and safety challenges after payday. By aggregating student orders and purchasing in bulk from wholesalers, we can access prices that are typically unavailable to students shopping alone
+
+Evidence
+- Website link: https://cptdfb.vercel.app/
+- GitHub: https://github.com/ngwanatiyani/DFB
+- Project Management: https://trello.com/b/b3Akuvef/d6-food-bulk
+---
 
 ## Agile Team Charter
