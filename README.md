@@ -1,3 +1,4 @@
+<img width="1552" height="765" alt="userstory" src="https://github.com/user-attachments/assets/cdcf5449-f714-4e1e-8bc5-96fa7c3e97b4" />
 # Spama221447598.github.io
 
 # Curriculum Vitae
@@ -170,7 +171,8 @@ I helped establish team agreements, communication channels, weekly check-ins, ta
 ## User Stories and Tasks
 ---
 **Evidence**
-[User Stories and tasks](<2026%DIP20%ICT/userstory.png>)
+<img width="1552" height="765" alt="userstory" src="https://github.com/user-attachments/assets/74781ce8-e6a4-4da6-8cb0-4be10ff08138" />
+
 
 ### STAR Reflection – User Stories and Tasks
 
