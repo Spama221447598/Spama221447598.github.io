@@ -150,7 +150,7 @@ Evidence
 ## Agile Team Charter
 ---
 **Evidence**
-[Agile Team Charter](<2026%DIP20%ICT/AGILETEAMCHARTER.pdf>)
+[Agile Team Charter](2026%DIP20%ICT/AGILETEAMCHARTER.pdf)
 
 ### STAR Reflection – Agile Team Charter
 
