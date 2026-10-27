@@ -151,6 +151,7 @@ Evidence
 ---
 **Evidence**
 [Agile Team Charter](2026%DIP20%ICT/AGILETEAMCHARTER.pdf)
+[Agile Team Charter](https://spama221447598.github.io/2026%20DIP%20ICT/AGILETEAMCHARTER.pdf)
 
 ### STAR Reflection – Agile Team Charter
 
