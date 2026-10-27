@@ -136,3 +136,5 @@ I enabled GitHub Pages in the repository settings and structured my project corr
 I successfully published my portfolio as a live website. This experience improved my understanding of hosting projects online and gave me practical knowledge of using GitHub Pages for showcasing my work professionally.
 
 ---
+
+## Agile Team Charter
