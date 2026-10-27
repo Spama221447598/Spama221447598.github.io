@@ -43,7 +43,7 @@ Results-oriented professional with a foundation in ICT and customer service, see
 
 ### EXL Services
 - **Job Title:** Executive
-- **Duration:** August 2024 – Current
+- **Duration:** August 2024 – October 2026
 
 **Duties and Responsibilities:**
 - Inbound Customer Service Representative
@@ -145,6 +145,7 @@ Evidence
 - Website link: https://cptdfb.vercel.app/
 - GitHub: https://github.com/ngwanatiyani/DFB
 - Project Management: https://trello.com/b/b3Akuvef/d6-food-bulk
+  
 ---
 
 ## Agile Team Charter
