@@ -147,13 +147,12 @@ Evidence
 - Project Management: https://trello.com/b/b3Akuvef/d6-food-bulk
   
 ---
-
 ## Agile Team Charter
-
+---
 **Evidence**
 [Agile Team Charter](<2026%DIP20%ICT/AGILETEAMCHARTER.pdf>)
 
-** STAR Reflection – Agile Team Charter
+** STAR Reflection – Agile Team Charter **
 
 **Situation:** 
 Our team identified that NSFAS-funded students at CPUT D6 face high food prices and safety risks when buying groceries.
@@ -166,3 +165,63 @@ I helped establish team agreements, communication channels, weekly check-ins, ta
 
 **Result:**
  The team established a clear workflow, defined responsibilities, and developed a plan for an affordable
+ 
+---
+## User Stories and Tasks
+---
+**Evidence**
+[User Stories and tasks](<2026%DIP20%ICT/userstory.png>)
+
+** STAR Reflection – User Stories and Tasks **
+
+**Situation:** 
+Our team needed to identify the needs of NSFAS-funded students who require affordable and safe grocery shopping.
+
+**Task:** 
+My responsibility was to help organise user stories and tasks so that each team member understood what needed to be done.
+
+**Action:** 
+We used Trello to record user stories, break requirements into manageable tasks, and organise the team's work according to priorities.
+
+**Result:** 
+The team had a clearer understanding of project requirements, individual responsibilities, and the tasks needed to deliver the D6 Food Bulk service.
+
+---
+## Product Backlog
+---
+**Evidence**
+[Product Backlog](<2026%DIP20%ICT/pbacklog.png>)
+
+### STAR Reflection – Product Backlog
+
+**Situation:** 
+The D6 Food Bulk project required a structured list of features to address students' financial and safety challenges.
+
+**Task:** 
+As Agile Lead, I supported the organisation and prioritisation of requirements to ensure the team focused on delivering value to students.
+
+**Action:** 
+We used Trello to organise the product backlog, including requirements related to bulk grocery orders, affordable pricing, pre-orders, and safe delivery.
+
+**Result:** 
+The product backlog provided the team with a central list of requirements to guide development and keep the project focused on its main objectives.
+
+---
+## Sprint Backlog
+---
+**Evidence**
+[Sprint Backlog](<2026%DIP20%ICT/sprintbacklog.png>)
+
+** STAR Reflection – Sprint Backlog **
+
+**Situation:** 
+Our team needed to organise the work required for each development period to make progress towards the D6 Food Bulk project goals.
+
+**Task:** 
+My responsibility was to help coordinate tasks, monitor progress, and ensure team members understood their responsibilities.
+
+**Action:** 
+We used Trello to organise selected tasks, track their progress, communicate updates, and identify outstanding work during team check-ins.
+
+**Result:** 
+The sprint backlog helped the team monitor progress, maintain accountability, and identify tasks requiring attention to keep the project moving forward.
