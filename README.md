@@ -226,3 +226,17 @@ We used Trello to organise selected tasks, track their progress, communicate upd
 
 **Result:** 
 The sprint backlog helped the team monitor progress, maintain accountability, and identify tasks requiring attention to keep the project moving forward.
+
+---
+Agile Logbook
+---
+
+### STAR Reflection - Agile logbook
+
+**Situation:** As the Agile Lead for the D6 Food Bulk project, our team needed to keep track of progress, outstanding tasks, decisions, and challenges while developing a bulk-buying solution for NSFAS-funded students at CPUT D6.
+
+**Task:** My responsibility was to coordinate team activities, monitor progress on Trello, and ensure that project updates and important decisions were communicated effectively.
+
+**Action:** I used Trello to organise user stories, the product backlog, and sprint tasks. I recorded progress and important updates in the agile logbook. We used Microsoft Teams for formal meetings and discussions, while WhatsApp was used for quick updates, reminders, and raising blockers.
+
+**Result:** These tools helped maintain communication, improve task visibility, and keep team members informed about project progress and responsibilities. The logbook also provided a record of activities, decisions, and progress throughout the project.
