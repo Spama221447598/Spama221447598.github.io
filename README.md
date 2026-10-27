@@ -152,7 +152,7 @@ Evidence
 **Evidence**
 [Agile Team Charter](<2026%DIP20%ICT/AGILETEAMCHARTER.pdf>)
 
-** STAR Reflection – Agile Team Charter **
+### STAR Reflection – Agile Team Charter
 
 **Situation:** 
 Our team identified that NSFAS-funded students at CPUT D6 face high food prices and safety risks when buying groceries.
@@ -172,7 +172,7 @@ I helped establish team agreements, communication channels, weekly check-ins, ta
 **Evidence**
 [User Stories and tasks](<2026%DIP20%ICT/userstory.png>)
 
-** STAR Reflection – User Stories and Tasks **
+### STAR Reflection – User Stories and Tasks
 
 **Situation:** 
 Our team needed to identify the needs of NSFAS-funded students who require affordable and safe grocery shopping.
@@ -212,7 +212,7 @@ The product backlog provided the team with a central list of requirements to gui
 **Evidence**
 [Sprint Backlog](<2026%DIP20%ICT/sprintbacklog.png>)
 
-** STAR Reflection – Sprint Backlog **
+### STAR Reflection – Sprint Backlog
 
 **Situation:** 
 Our team needed to organise the work required for each development period to make progress towards the D6 Food Bulk project goals.
