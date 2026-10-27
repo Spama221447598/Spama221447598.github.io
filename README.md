@@ -149,3 +149,20 @@ Evidence
 ---
 
 ## Agile Team Charter
+
+**Evidence**
+[Agile Team Charter](<2026%DIP20%ICT/AGILETEAMCHARTER.pdf>)
+
+** STAR Reflection – Agile Team Charter
+
+**Situation:** 
+Our team identified that NSFAS-funded students at CPUT D6 face high food prices and safety risks when buying groceries.
+
+**Task:** 
+As the Agile Lead, my responsibility was to coordinate teamwork, manage blockers, and ensure we followed Agile practices.
+
+**Action:** 
+I helped establish team agreements, communication channels, weekly check-ins, task planning, and monthly retrospectives to improve collaboration.
+
+**Result:**
+ The team established a clear workflow, defined responsibilities, and developed a plan for an affordable
